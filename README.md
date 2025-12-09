@@ -3,7 +3,7 @@
 A responsive HTML/CSS website for an outdoor jacket store, created to showcase layout, design implementation, and multi-page navigation.
 
 ## **Description** 
-This project is a static and responsive website built using only HTML and CSS. It is based on the original Rainy Days design created in the Design Course and aims to accurately recreate the layout, structure, and visual style.
+This project is a responsive website built using only HTML and CSS. It is based on the original Rainy Days design created in the Design Course and aims to accurately recreate the layout, structure, and visual style.
 The website represents an online store that sells outdoor jackets, allowing users to browse products, view details, and simulate a simple purchase flow through static pages.
 The focus of the project is on clean HTML structure, modern CSS layout techniques such as Flexbox and Grid, and creating a fully responsive design without the use of JavaScript or CSS frameworks.
 
