@@ -1,27 +1,27 @@
 
-# **Rainy Days**
-A responsive HTML/CSS website for an outdoor jacket store, created to showcase layout, design implementation, and multi-page navigation.
+# **CA-JS1**
+This project is my JavaScript 1 Course Assignment. This project builds on my previous work from the Rainy Days project, where I reused structure and styling as a starting point. 
 
 ## **Description** 
-This project is a responsive website built using only HTML and CSS. It is based on the original Rainy Days design created in the Design Course and aims to accurately recreate the layout, structure, and visual style.
-The website represents an online store that sells outdoor jackets, allowing users to browse products, view details, and simulate a simple purchase flow through static pages.
-The focus of the project is on clean HTML structure, modern CSS layout techniques such as Flexbox and Grid, and creating a fully responsive design without the use of JavaScript or CSS frameworks.
+This application retrivies product data from a chosen API endpoint (Rainy Days). I reused parts of the structure and styling from Rainy Days assignment as a foundation. This application retrivies product data from the chosen API endpoint and displays it dynamically on the homepage. User can filter products, view detailed product- pages, add items to the basket, remove items, and complete the checkout process with a confirmation screen. 
 
 
 ## **Built With**
 
 - HTML
 - CSS
+- JavaScript
+- Fetch API
 
 ## **Installation**
 1. Clone the repository: 
 ```bash
- git clone https://github.com/emifos/html-ccs-emiliefosmo.git
+ git clone https://github.com/emifos/CA-JS1.git
 ```
 
 2. Navigate to the project folder
 ```bash
-cd html-ccs-emiliefosmo
+cd CA-JS1
 ```
 
 3. Open the project in code ediot (VS Code)
@@ -42,7 +42,7 @@ emilie.fosmo@hotmail.com
 
 [My LinkdIn](https://www.linkedin.com/in/emilie-sofie-fosmo-1b9bb1228/)
 
-[Project Link](https://github.com/emifos/html-ccs-emiliefosmo)
+[Project Link](https://github.com/emifos/CA-JS1)
 
 ## **Licence**
 This project is licensed under the MIT Licence. 
