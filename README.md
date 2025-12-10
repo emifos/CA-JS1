@@ -5,6 +5,12 @@ This project is my JavaScript 1 Course Assignment. This project builds on my pre
 ## **Description** 
 This application retrivies product data from a chosen API endpoint (Rainy Days). I reused parts of the structure and styling from Rainy Days assignment as a foundation. This application retrivies product data from the chosen API endpoint and displays it dynamically on the homepage. User can filter products, view detailed product- pages, add items to the basket, remove items, and complete the checkout process with a confirmation screen. 
 
+The homepage icludes a homepage with a product list, a product detail page, a checkout page showing the basket, and a confirmation page displayed after the user completes the order. 
+
+User can view all products on the homepage, filter products by gender, open a single product page, add items to the basket, remove them, view a summary on the checkout page, and see an order confirmation after completing the purchase. 
+
+The project displays error messages when something goes wrong during API requests and shows loading indicator while data is being fetched. No hardcoded product data is used. 
+
 
 ## **Built With**
 
