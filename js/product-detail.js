@@ -61,7 +61,7 @@ async function fetchAndCreateProduct() {
         gender.className = 'description'
         size.className = 'description'
         baseColor.className = 'description'
-        backButton.className = 'cta'
+        backButton.className = 'cta back-link'
         addToCartButton.className = 'cta'
         goToCartButton.className = 'cta'
 
@@ -132,8 +132,12 @@ async function fetchAndCreateProduct() {
         productDiv.appendChild(gender)
         productDiv.appendChild(size)
         productDiv.appendChild(baseColor)
-        productDiv.appendChild(addToCartButton)
-        productDiv.appendChild(goToCartButton)
+
+        const buttonGroup = document.createElement("div")
+        buttonGroup.appendChild(addToCartButton)
+        buttonGroup.appendChild(goToCartButton)
+
+        productDiv.appendChild(buttonGroup)
         productDiv.appendChild(backButton)
        
         container.appendChild(productDiv)
